@@ -1,4 +1,4 @@
-![Logo](assets/img/logo.png)
+![Logo](Instagram/assets/img/logo.png)
 # Instagram
 
 Web page with the responsive layout of the web version of Instagram, using HTML and CSS.
@@ -7,9 +7,9 @@ Web page with the responsive layout of the web version of Instagram, using HTML 
 
 ## Project preview
 
-![Preview do projeto - desktop1](assets/previews/preview-desktop1.png)
-![Preview do projeto - desktop2](assets/previews/preview-desktop2.png)
-![Preview do projeto - mobile](assets/previews/preview-mobile.png)
+![Preview do projeto - desktop1](Instagram/assets/previews/preview-desktop1.png)
+![Preview do projeto - desktop2](Instagram/assets/previews/preview-desktop2.png)
+![Preview do projeto - mobile](Instagram/assets/previews/preview-mobile.png)
 ## Deploy
 
 ## Author
