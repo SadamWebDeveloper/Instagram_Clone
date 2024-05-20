@@ -14,8 +14,8 @@ Web page with the responsive layout of the web version of Instagram, using HTML 
 
 ## Author
 
-- LinkedIn: [@Sadam-hussain](https://www.linkedin.com/in/gabriel-rodrigues-neves/)
-- Github: [@sadamWebDeveloper]([https://github.com/neves-gabriel](https://github.com/SadamWebDeveloper?tab=repositories))
+- LinkedIn: [@Sadam-hussain](https://www.linkedin.com/in/sadam-hussain-developer/))
+- Github: [@sadamWebDeveloper]((https://github.com/SadamWebDeveloper?tab=repositories)](https://github.com/SadamWebDeveloper?tab=repositories))
 ## Stack
 
 **Front-end:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
